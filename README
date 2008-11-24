@@ -1,0 +1,24 @@
+webgal.rb is a basic static HTML (aka "web") image gallery maker.
+
+webgal.rb depends on the following:
+
+ * Ruby-GNOME2 (http://ruby-gnome2.sourceforge.jp)
+
+ * RMagick (http://rmagick.rubyforge.org/)
+
+ * ImageMagick (http://www.imagemagick.org/script/index.php)
+
+ * jhead (http://www.sentex.net/~mwandel/jhead/)
+
+ * exiftran (part of fbida, http://linux.bytesex.org/fbida/)
+
+On a typical GNU/Linux system that's not a lot to worry about. These
+are all available on Ubuntu, at least.
+
+This thing might run on Windows. Probably not worth the effort though.
+
+I can't get exiftran to compile on Cygwin, and attempts to build a
+gallery on Cygwin are failing anyway.
+
+
+

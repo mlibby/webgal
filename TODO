@@ -1,0 +1,16 @@
+* less memory intensive creation of preview images!!!!
+* delete image needs to compact @image_list right away, and relink affected arrays
+* destructive over-write of existing gallery option
+* non-destructive rotation of images
+* resizing gallery images
+* thumbnail options:
+  - proportional resize
+  - proportional resize with clipping
+* global prefs options
+* fix new/open functions so that open in current window wipes current gallery
+* ask user "save changes?" before closing an unsaved, changed gallery file
+* file browse/edit buttons in preferences
+* checkboxes in preferences
+* command line options
+  - generate empty gallery .wgg file using directory as input
+  - generate web gallery using existing .wgg file

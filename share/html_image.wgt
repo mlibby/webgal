@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>%TITLE%</title>
+%STYLESHEET%
+</head>
+
+<body>
+<table class='imageNav'><tr class='imageNavRow'>
+<td class='header' colspan="3"><h1>%GALLERY_NAME%</h1><td>
+</tr><tr>
+<td class='imageNavAllAlbums'><a href="../index.html">Back to list of all albums</a></td>
+<td class='imageNavHome'><a href="../../index.html">Go to Home Page</a></td>
+<td class='imageNavUp'>%INDEX_LINK%</td>
+</tr></table>
+<br />
+<table class ='imageNav'><tr class='imageNavRow'>
+<td class='imageNavPrev'>%PREV_LINK%</td>
+<td class='imageCenterCell'>
+  <p class='image'><a href='%BIG_FILE%' target='_blank'><img src='%IMAGE_FILE%'></a></p>
+  <p class='imageCaption'>%CAPTION%</p>
+</td>
+<td class='imageNavNext'>%NEXT_LINK%</td>
+</tr></table>
+<br />
+<!-- Navigation Links -->
+<table class='imageNav'><tr class='imageNavRow'>
+<td><p class='seeBigFile'><a href='%BIG_FILE%' target='_blank'>see this image larger</a><br />(opens a new window)</p></td>
+</tr></table>
+
+</body>
+</html>

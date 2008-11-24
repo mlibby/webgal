@@ -1,0 +1,29 @@
+MCL's Web Image Gallery Tool
+
+Copyright (C) 2004, 2008, Michael C. Libby.
+
+MCL's Web Image Gallery Tool comes with ABSOLUTELY NO WARRANTY; for
+details, choose License from the Help menu.
+
+This is free software, and you are welcome to redistribute it under
+certain conditions for details, choose License from the Help menu.
+
+WARNING: Rotate Image option will rotate image in source file.  If
+this is not what you want, do not rotate images.
+
+Basic use:
+
+1. Choose 'Add Images in Directory...' to load images into gallery
+
+2. Save Gallery file and give it a name
+
+3. Write titles and other information
+
+4. Set Gallery preferences
+
+5. Make gallery
+
+6. Use ftp or scp program to upload gallery to web server
+   or view locally using web browser
+
+

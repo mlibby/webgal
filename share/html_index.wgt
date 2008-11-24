@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>%TITLE%</title>
+%STYLESHEET%
+</head>
+
+<body class='index'>
+<table class='imageNav'><tr class='imageNavRow'>
+<td class='header' colspan="3"><h1>%GALLERY_NAME%</h1><td>
+</tr><tr>
+<td class='imageNavAllAlbums'><a href="../index.html">Back to list of all albums</a></td>
+<td class='imageNavHome'><a href="../../index.html">Go to Home Page</a></td>
+<td class='imageNavUp'>%INDEX_LINK%</td>
+</tr></table>
+<br />
+
+%THUMBNAIL_TABLE%
+
+</body>
+</html>
